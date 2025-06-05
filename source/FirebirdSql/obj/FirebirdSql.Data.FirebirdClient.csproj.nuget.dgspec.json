@@ -1,0 +1,51 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Josia\\dev\\git\\personal\\NETProvider\\source\\FirebirdSql\\FirebirdSql.Data.FirebirdClient.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Josia\\dev\\git\\personal\\NETProvider\\source\\FirebirdSql\\FirebirdSql.Data.FirebirdClient.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Josia\\dev\\git\\personal\\NETProvider\\source\\FirebirdSql\\FirebirdSql.Data.FirebirdClient.csproj",
+        "projectName": "FirebirdSql.Data.FirebirdClient",
+        "projectPath": "C:\\Users\\Josia\\dev\\git\\personal\\NETProvider\\source\\FirebirdSql\\FirebirdSql.Data.FirebirdClient.csproj",
+        "packagesPath": "C:\\Users\\Josia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Josia\\dev\\git\\personal\\NETProvider\\source\\FirebirdSql\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "UsingMicrosoftNETSdk": false,
+        "configFilePaths": [
+          "C:\\Users\\Josia\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net35"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net35": {
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net35": {
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

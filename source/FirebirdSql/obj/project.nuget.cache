@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DsRz1+gULKk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Josia\\dev\\git\\personal\\NETProvider\\source\\FirebirdSql\\FirebirdSql.Data.FirebirdClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Josia\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\Josia\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net20\\1.0.0\\microsoft.netframework.referenceassemblies.net20.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
