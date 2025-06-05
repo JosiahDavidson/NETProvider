@@ -1,0 +1,154 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.0/win-x86",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.0": {},
+    ".NETStandard,Version=v2.0/win-x86": {
+      "FirebirdSql.Data.FirebirdClient/10.3.3": {
+        "dependencies": {
+          "ConfigureAwaitChecker.Analyzer": "5.0.0.1",
+          "Microsoft.SourceLink.GitHub": "8.0.0",
+          "NETStandard.Library": "2.0.3",
+          "System.Reflection.Emit": "4.7.0",
+          "System.Threading.Tasks.Extensions": "4.6.0"
+        },
+        "runtime": {
+          "FirebirdSql.Data.FirebirdClient.dll": {}
+        }
+      },
+      "ConfigureAwaitChecker.Analyzer/5.0.0.1": {},
+      "Microsoft.Build.Tasks.Git/8.0.0": {},
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "Microsoft.SourceLink.Common/8.0.0": {},
+      "Microsoft.SourceLink.GitHub/8.0.0": {
+        "dependencies": {
+          "Microsoft.Build.Tasks.Git": "8.0.0",
+          "Microsoft.SourceLink.Common": "8.0.0"
+        }
+      },
+      "NETStandard.Library/2.0.3": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      },
+      "System.Reflection.Emit/4.7.0": {
+        "dependencies": {
+          "System.Reflection.Emit.ILGeneration": "4.7.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Reflection.Emit.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.700.19.56404"
+          }
+        }
+      },
+      "System.Reflection.Emit.ILGeneration/4.7.0": {
+        "runtime": {
+          "lib/netstandard2.0/System.Reflection.Emit.ILGeneration.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.700.19.56404"
+          }
+        }
+      },
+      "System.Runtime.CompilerServices.Unsafe/6.1.0": {
+        "runtime": {
+          "lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.100.24.56208"
+          }
+        }
+      },
+      "System.Threading.Tasks.Extensions/4.6.0": {
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "6.1.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Threading.Tasks.Extensions.dll": {
+            "assemblyVersion": "4.2.1.0",
+            "fileVersion": "4.600.24.56208"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FirebirdSql.Data.FirebirdClient/10.3.3": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConfigureAwaitChecker.Analyzer/5.0.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jqOPPOJzHiUajPVGNw0MJzqUYLM3nHYEXEo1X91VqbwBqvq0+u8ASgcdmlmr4E9ffWJkjIo8vPEH9EMrKh69EQ==",
+      "path": "configureawaitchecker.analyzer/5.0.0.1",
+      "hashPath": "configureawaitchecker.analyzer.5.0.0.1.nupkg.sha512"
+    },
+    "Microsoft.Build.Tasks.Git/8.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bZKfSIKJRXLTuSzLudMFte/8CempWjVamNUR5eHJizsy+iuOuO/k2gnh7W0dHJmYY0tBf+gUErfluCv5mySAOQ==",
+      "path": "microsoft.build.tasks.git/8.0.0",
+      "hashPath": "microsoft.build.tasks.git.8.0.0.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "Microsoft.SourceLink.Common/8.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dk9JPxTCIevS75HyEQ0E4OVAFhB2N+V9ShCXf8Q6FkUQZDkgLI12y679Nym1YqsiSysuQskT7Z+6nUf3yab6Vw==",
+      "path": "microsoft.sourcelink.common/8.0.0",
+      "hashPath": "microsoft.sourcelink.common.8.0.0.nupkg.sha512"
+    },
+    "Microsoft.SourceLink.GitHub/8.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-G5q7OqtwIyGTkeIOAc3u2ZuV/kicQaec5EaRnc0pIeSnh9LUjj+PYQrJYBURvDt7twGl2PKA7nSN0kz1Zw5bnQ==",
+      "path": "microsoft.sourcelink.github/8.0.0",
+      "hashPath": "microsoft.sourcelink.github.8.0.0.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+      "path": "netstandard.library/2.0.3",
+      "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    },
+    "System.Reflection.Emit/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VR4kk8XLKebQ4MZuKuIni/7oh+QGFmZW3qORd1GvBq/8026OpW501SzT/oypwiQl4TvT8ErnReh/NzY9u+C6wQ==",
+      "path": "system.reflection.emit/4.7.0",
+      "hashPath": "system.reflection.emit.4.7.0.nupkg.sha512"
+    },
+    "System.Reflection.Emit.ILGeneration/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-AucBYo3DSI0IDxdUjKksBcQJXPHyoPyrCXYURW1WDsLI4M65Ar/goSHjdnHOAY9MiYDNKqDlIgaYm+zL2hA1KA==",
+      "path": "system.reflection.emit.ilgeneration/4.7.0",
+      "hashPath": "system.reflection.emit.ilgeneration.4.7.0.nupkg.sha512"
+    },
+    "System.Runtime.CompilerServices.Unsafe/6.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5o/HZxx6RVqYlhKSq8/zronDkALJZUT2Vz0hx43f0gwe8mwlM0y2nYlqdBwLMzr262Bwvpikeb/yEwkAa5PADg==",
+      "path": "system.runtime.compilerservices.unsafe/6.1.0",
+      "hashPath": "system.runtime.compilerservices.unsafe.6.1.0.nupkg.sha512"
+    },
+    "System.Threading.Tasks.Extensions/4.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-I5G6Y8jb0xRtGUC9Lahy7FUvlYlnGMMkbuKAQBy8Jb7Y6Yn8OlBEiUOY0PqZ0hy6Ua8poVA1ui1tAIiXNxGdsg==",
+      "path": "system.threading.tasks.extensions/4.6.0",
+      "hashPath": "system.threading.tasks.extensions.4.6.0.nupkg.sha512"
+    }
+  }
+}

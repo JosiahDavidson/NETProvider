@@ -1,0 +1,13 @@
+C:\Users\Josia\dev\git\personal\NETProvider\src\FirebirdSql.Data.FirebirdClient\bin\Release\net48\win-x86\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\Josia\dev\git\personal\NETProvider\src\FirebirdSql.Data.FirebirdClient\bin\Release\net48\win-x86\FirebirdSql.Data.FirebirdClient.pdb
+C:\Users\Josia\dev\git\personal\NETProvider\src\FirebirdSql.Data.FirebirdClient\bin\Release\net48\win-x86\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Josia\dev\git\personal\NETProvider\src\FirebirdSql.Data.FirebirdClient\bin\Release\net48\win-x86\System.Threading.Tasks.Extensions.dll
+C:\Users\Josia\dev\git\personal\NETProvider\src\FirebirdSql.Data.FirebirdClient\obj\Release\net48\win-x86\FirebirdSql.Data.FirebirdClient.csproj.AssemblyReference.cache
+C:\Users\Josia\dev\git\personal\NETProvider\src\FirebirdSql.Data.FirebirdClient\obj\Release\net48\win-x86\FirebirdSql.Data.FirebirdClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josia\dev\git\personal\NETProvider\src\FirebirdSql.Data.FirebirdClient\obj\Release\net48\win-x86\FirebirdSql.Data.FirebirdClient.AssemblyInfoInputs.cache
+C:\Users\Josia\dev\git\personal\NETProvider\src\FirebirdSql.Data.FirebirdClient\obj\Release\net48\win-x86\FirebirdSql.Data.FirebirdClient.AssemblyInfo.cs
+C:\Users\Josia\dev\git\personal\NETProvider\src\FirebirdSql.Data.FirebirdClient\obj\Release\net48\win-x86\FirebirdSql.Data.FirebirdClient.csproj.CoreCompileInputs.cache
+C:\Users\Josia\dev\git\personal\NETProvider\src\FirebirdSql.Data.FirebirdClient\obj\Release\net48\win-x86\FirebirdSql.Data.FirebirdClient.sourcelink.json
+C:\Users\Josia\dev\git\personal\NETProvider\src\FirebirdSql.Data.FirebirdClient\obj\Release\net48\win-x86\Firebird.E47196D3.Up2Date
+C:\Users\Josia\dev\git\personal\NETProvider\src\FirebirdSql.Data.FirebirdClient\obj\Release\net48\win-x86\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\Josia\dev\git\personal\NETProvider\src\FirebirdSql.Data.FirebirdClient\obj\Release\net48\win-x86\FirebirdSql.Data.FirebirdClient.pdb

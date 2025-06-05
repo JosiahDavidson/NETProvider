@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = FirebirdSql.Data
+build_property.ProjectDir = C:\Users\Josia\dev\git\personal\NETProvider\src\FirebirdSql.Data.FirebirdClient\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

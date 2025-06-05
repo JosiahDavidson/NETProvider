@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = EntityFramework.Firebird
+build_property.ProjectDir = C:\Users\Josia\dev\git\personal\NETProvider\src\EntityFramework.Firebird\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

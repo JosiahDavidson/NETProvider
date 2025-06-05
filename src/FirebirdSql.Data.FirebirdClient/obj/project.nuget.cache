@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "VD9hXJdgYaI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Josia\\dev\\git\\personal\\NETProvider\\src\\FirebirdSql.Data.FirebirdClient\\FirebirdSql.Data.FirebirdClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Josia\\.nuget\\packages\\configureawaitchecker.analyzer\\5.0.0.1\\configureawaitchecker.analyzer.5.0.0.1.nupkg.sha512",
+    "C:\\Users\\Josia\\.nuget\\packages\\microsoft.build.tasks.git\\8.0.0\\microsoft.build.tasks.git.8.0.0.nupkg.sha512",
+    "C:\\Users\\Josia\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Josia\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\Josia\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net48\\1.0.3\\microsoft.netframework.referenceassemblies.net48.1.0.3.nupkg.sha512",
+    "C:\\Users\\Josia\\.nuget\\packages\\microsoft.sourcelink.common\\8.0.0\\microsoft.sourcelink.common.8.0.0.nupkg.sha512",
+    "C:\\Users\\Josia\\.nuget\\packages\\microsoft.sourcelink.github\\8.0.0\\microsoft.sourcelink.github.8.0.0.nupkg.sha512",
+    "C:\\Users\\Josia\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Josia\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\Josia\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.7.0\\system.reflection.emit.ilgeneration.4.7.0.nupkg.sha512",
+    "C:\\Users\\Josia\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.1.0\\system.runtime.compilerservices.unsafe.6.1.0.nupkg.sha512",
+    "C:\\Users\\Josia\\.nuget\\packages\\system.threading.tasks.extensions\\4.6.0\\system.threading.tasks.extensions.4.6.0.nupkg.sha512",
+    "C:\\Users\\Josia\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Josia\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Josia\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Josia\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\Josia\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\Josia\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
